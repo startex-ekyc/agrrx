@@ -1,5 +1,5 @@
-# Proinvest - HYIP, Cryptocurrency, Forex Investment Platform with MLM Support
-**Admin Panel - User Management Demo using CodeIgniter + AdminLTE Bootstrap Theme**
+# StarExCoins cryptocurrency platform with MLM Support
+**Admin Panel - User Management**
 
 This system is intended for use in creating and maintaining an investment platform that is secure for both the
 site owner and client. 
@@ -9,7 +9,7 @@ site owner and client.
 2. Configure and add your investment plans easily.
 3. User verification system.
 4. Role management (admin, managers).
-5. Multiple payment gateways (Paypal, stripe and Coinpayments).
+5. Multiple payment gateways (Paypal, stripe and StartexCoinpayments).
 6. Referral system with multi-level management system.
 7. Automated earnings based on the plan's period.
 8. Manually review payouts and approve payments.
@@ -39,6 +39,6 @@ site owner and client.
 
 **System Administrator Account :**
 
-email : admin@proinvest.com
+email : startex.partner@gmail.com
 
-password : 12345678
+password : Fanta123@#$
